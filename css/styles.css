@@ -605,7 +605,7 @@ slider {
 
 
 .main_page h2 {
-    padding: 13px 15px 11px 10px;
+    padding: 13px 15px 20px 10px;
     font-family: Tahoma;
     font-size: 16px;
     font-weight: 400;
@@ -624,7 +624,7 @@ slider {
 
 .description {
     float: right;
-/*    margin-top: 12px;*/
+    margin-top: 6px;
     padding: 12px;
     background: #0f0f0f;
 /*    border-radius: 10px;*/
