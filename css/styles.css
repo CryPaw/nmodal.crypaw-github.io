@@ -624,7 +624,7 @@ slider {
 
 .description {
     float: right;
-    margin-top: 6px;
+/*     margin-top: 6px; */
     padding: 12px;
     background: #0f0f0f;
 /*    border-radius: 10px;*/
